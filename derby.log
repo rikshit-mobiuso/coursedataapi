@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Thu Mar 10 23:47:13 IST 2022:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance a816c00e-017f-750c-95f8-000008e97bd0 
+on database directory memory:/home/rikshit-workmobiuso/IdeaProjects/coursedataapi/8f77cc2a-5ef4-4197-995c-5332c9700292 with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@2c13da15 
+Loaded from file:/home/rikshit-workmobiuso/.m2/repository/org/apache/derby/derby/10.14.2.0/derby-10.14.2.0.jar
+java.vendor=JetBrains s.r.o.
+java.runtime.version=11.0.13+7-b1751.25
+user.dir=/home/rikshit-workmobiuso/IdeaProjects/coursedataapi
+os.name=Linux
+os.arch=amd64
+os.version=5.13.0-30-generic
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
